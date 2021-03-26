@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Camilla Bjerke
+- 🌱 I’m currently learning vue for a new job
+- 💞️ Thing i put here are: CSS, javascript, vue
